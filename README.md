@@ -2,7 +2,7 @@
 
 Supports in-app banner advertising features with just a few lines of code.
 
-[![Latest version](https://img.shields.io/badge/Latest%20version-v1.0.0-blue.svg)](https://bintray.com/exads/maven/exoclick-sdk/)
+[![Latest version](https://img.shields.io/badge/Latest%20version-v1.0.1-blue.svg)](https://bintray.com/exads/maven/exoclick-sdk/)
 
 
 ### Features
@@ -94,6 +94,9 @@ mExoclickBannerWebview = (ExoclickBannerWebView) findViewById(R.id.exoclickBanne
 ```
 onResume
 ```
- //mExoclickBannerWebview.init(this, "adIdzone", "adWidth", "adHeight").isClosable(true);
- mExoclickBannerWebview.init(this, "399968", "300", "250").isClosable(true);
+ //mExoclickBannerWebview.init(this, "adIdzone", "adWidth", "adHeight").isClosable(true).openWithBrowser(false);
+ mExoclickBannerWebview.init(this, "399968", "300", "250").isClosable(true).openWithBrowser(false);
 ```
+
+# Changelog
+* List of changes and updates can be checked in the project [CHANGELOG](https://github.com/EXADS/exoclick-android-sdk-demo/blob/master/CHANGELOG.md)
