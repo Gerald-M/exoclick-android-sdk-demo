@@ -46,14 +46,14 @@ Download the latest library via Maven
 <dependency>
   <groupId>com.exads.sdk</groupId>
   <artifactId>exoclick-sdk</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1</version>
 </dependency>
 ```
 
 or Gradle
 
 ```
-compile 'com.exads.sdk:exoclick-sdk:1.0.0'
+compile 'com.exads.sdk:exoclick-sdk:1.0.1'
 ```
 
 ### Initializing ExoclickSDK
