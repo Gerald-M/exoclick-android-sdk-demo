@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onResume() {
         super.onResume();
 
-        mExoclickBannerWebview.init(this, "399968", "300", "250").isClosable(true).openWithBrowser(false);
+        mExoclickBannerWebview.init(this, "399970", "300", "250").isClosable(true).openWithBrowser(false);
     }
 
     @Override

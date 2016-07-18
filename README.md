@@ -2,7 +2,7 @@
 
 Supports in-app banner advertising features with just a few lines of code.
 
-[![Latest version](https://img.shields.io/badge/Latest%20version-v1.0.1-blue.svg)](https://bintray.com/exads/maven/exoclick-sdk/)
+[![Latest version](https://img.shields.io/badge/Latest%20version-v1.0.2-blue.svg)](https://bintray.com/exads/maven/exoclick-sdk/)
 
 
 ### Features
@@ -46,14 +46,14 @@ Download the latest library via Maven
 <dependency>
   <groupId>com.exads.sdk</groupId>
   <artifactId>exoclick-sdk</artifactId>
-  <version>1.0.1</version>
+  <version>1.0.2</version>
 </dependency>
 ```
 
 or Gradle
 
 ```
-compile 'com.exads.sdk:exoclick-sdk:1.0.1'
+compile 'com.exads.sdk:exoclick-sdk:1.0.2'
 ```
 
 ### Initializing ExoclickSDK
@@ -95,7 +95,7 @@ mExoclickBannerWebview = (ExoclickBannerWebView) findViewById(R.id.exoclickBanne
 onResume
 ```
  //mExoclickBannerWebview.init(this, "adIdzone", "adWidth", "adHeight").isClosable(true).openWithBrowser(false);
- mExoclickBannerWebview.init(this, "399968", "300", "250").isClosable(true).openWithBrowser(false);
+ mExoclickBannerWebview.init(this, "399970", "300", "250").isClosable(true).openWithBrowser(false);
 ```
 
 # Changelog
