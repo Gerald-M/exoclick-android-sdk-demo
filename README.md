@@ -95,7 +95,7 @@ mExoclickBannerWebview = (ExoclickBannerWebView) findViewById(R.id.exoclickBanne
 onResume
 ```
  //mExoclickBannerWebview.init(this, "adIdzone", "adWidth", "adHeight").isClosable(true).openWithBrowser(false);
- mExoclickBannerWebview.init(this, "399970", "300", "250").isClosable(true).openWithBrowser(false);
+ mExoclickBannerWebview.init(this, "399970", "300", "100").isClosable(true).openWithBrowser(false);
 ```
 
 # Changelog
