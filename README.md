@@ -2,7 +2,7 @@
 
 Supports in-app banner advertising features with just a few lines of code.
 
-[![Latest version](https://img.shields.io/badge/Latest%20version-v1.0.2-blue.svg)](https://bintray.com/exads/maven/exoclick-sdk/)
+[![Latest version](https://img.shields.io/badge/Latest%20version-v1.0.3-blue.svg)](https://bintray.com/exads/maven/exoclick-sdk/)
 
 
 ### Features
@@ -46,14 +46,14 @@ Download the latest library via Maven
 <dependency>
   <groupId>com.exads.sdk</groupId>
   <artifactId>exoclick-sdk</artifactId>
-  <version>1.0.2</version>
+  <version>1.0.3</version>
 </dependency>
 ```
 
 or Gradle
 
 ```
-compile 'com.exads.sdk:exoclick-sdk:1.0.2'
+compile 'com.exads.sdk:exoclick-sdk:1.0.3'
 ```
 
 ### Initializing ExoclickSDK

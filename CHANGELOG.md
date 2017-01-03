@@ -8,3 +8,6 @@
 
 ##1.0.2
 * bug fix for some Android API versions when using WebView (doesn't require any code change, just update to new SDK version 1.0.1 -> 1.0.2)
+
+##1.0.3
+* fixes for issues #2 and #3 (doesn't require any code change, just update to new SDK version 1.0.2 -> 1.0.3)
